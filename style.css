@@ -9,7 +9,7 @@ h3 {
 }
 
 h1 {
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Comfortaa', monospace;
   text-align: center;
   color: black;
   font-size: 90;
@@ -74,4 +74,8 @@ list {
   font-weight: bold;
   background-color: white;
   width: 12em;
+}
+
+.search input {
+  padding: 5px;
 }
