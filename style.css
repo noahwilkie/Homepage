@@ -42,11 +42,11 @@ list {
 }
 
 .google {
-  background-color: #cc241d;
+  background-color: red;
 }
 
 .reddit {
-  background-color: #458588;
+  background-color: teal;
 }
 
 .programming {
@@ -57,9 +57,14 @@ list {
   background-color: #d65d0e;
 }
 
-.linux {
-  background-color: #98971a;
+.school {
+  background-color: blue;
 }
+
+.forums {
+  background-color: #d65d0e;
+}
+
 
 .links {
   text-align: center;
