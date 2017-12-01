@@ -1,17 +1,17 @@
 body {
-  background-color: #282828;
+  background-color: white;
   text-align: center;
 }
 
 h3 {
-  color: #ebdbb2;
   font-family: 'Roboto Mono', monospace;
+  color: white;
 }
 
 h1 {
-  font-family: 'Pacifico', cursive;
+  font-family: 'Roboto Mono', monospace;
   text-align: center;
-  color: #ebdbb2;
+  color: black;
   font-size: 90;
 }
 
@@ -67,6 +67,6 @@ list {
   font-family: 'Roboto Mono', monospace;
   text-decoration: none;
   font-weight: bold;
-  background-color: #ebdbb2;
+  background-color: white;
   width: 12em;
 }
